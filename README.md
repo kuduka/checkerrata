@@ -9,6 +9,11 @@ Based on:
  * https://github.com/pybliss/rhscheck/blob/master/rhscheck.py
  * checksysreport (looks like the official homepage was deleted long time ago)
 
+Usage:
+
+ ./rhnclone.py --> Clone RHN data
+ ./sosreport.py -s <path sosreport> --> Check erratas
+
 TODO:
 
 * Documentation (this)
