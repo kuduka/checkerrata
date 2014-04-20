@@ -12,7 +12,7 @@ Based on:
 Usage:
 
  ./rhnclone.py --> Clone RHN data
- ./sosreport.py -s <path sosreport> --> Check erratas
+ ./soscheck.py -s <path sosreport> --> Check erratas
 
 TODO:
 
